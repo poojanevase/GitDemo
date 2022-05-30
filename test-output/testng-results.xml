@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="2" total="7" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-05-30T14:11:21 IST" name="Suite" finished-at="2022-05-30T14:11:21 IST" duration-ms="149">
+    <groups>
+    </groups>
+    <test started-at="2022-05-30T14:11:21 IST" name="Test" finished-at="2022-05-30T14:11:21 IST" duration-ms="71">
+      <class name="testpackage.Practice1">
+        <test-method signature="sample1()[pri:0, instance:testpackage.Practice1@4cc8eb05]" started-at="2022-05-30T14:11:21 IST" name="sample1" finished-at="2022-05-30T14:11:21 IST" duration-ms="10" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sample1 -->
+        <test-method signature="sample2()[pri:0, instance:testpackage.Practice1@4cc8eb05]" started-at="2022-05-30T14:11:21 IST" name="sample2" finished-at="2022-05-30T14:11:21 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sample2 -->
+        <test-method signature="sample3()[pri:0, instance:testpackage.Practice1@4cc8eb05]" started-at="2022-05-30T14:11:21 IST" name="sample3" finished-at="2022-05-30T14:11:21 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sample3 -->
+      </class> <!-- testpackage.Practice1 -->
+      <class name="testpackage.practice2">
+        <test-method signature="HomePage()[pri:0, instance:testpackage.practice2@67080771]" started-at="2022-05-30T14:11:21 IST" name="HomePage" finished-at="2022-05-30T14:11:21 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- HomePage -->
+      </class> <!-- testpackage.practice2 -->
+    </test> <!-- Test -->
+    <test started-at="2022-05-30T14:11:21 IST" name="Home Page" finished-at="2022-05-30T14:11:21 IST" duration-ms="8">
+      <class name="testpackage.practice3">
+        <test-method is-config="true" signature="homeLoan()[pri:0, instance:testpackage.practice3@53fdffa1]" started-at="2022-05-30T14:11:21 IST" name="homeLoan" finished-at="2022-05-30T14:11:21 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- homeLoan -->
+        <test-method signature="CarLoan()[pri:0, instance:testpackage.practice3@53fdffa1]" started-at="2022-05-30T14:11:21 IST" name="CarLoan" finished-at="2022-05-30T14:11:21 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CarLoan -->
+      </class> <!-- testpackage.practice3 -->
+    </test> <!-- Home Page -->
+  </suite> <!-- Suite -->
+</testng-results>
